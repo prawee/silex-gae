@@ -1,4 +1,22 @@
 {
+    "name": "prawee/silex-gae",
+    "version": "1.0",
+    "description": "Create project with Silex for deploy to GAE",
+    "type": "silex-gae",
+    "keywords": [
+        "GAE",
+        "Silex",
+        "RESTFul",
+        "API"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/prawee/silex-gae.git",
+    "authors": [
+        {
+            "name": "Prawee Wongsa",
+            "email": "prawee@hotmail.com"
+        }
+    ],
     "require": {
         "silex/silex": "~2.0"
     }
