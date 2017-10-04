@@ -1,0 +1,25 @@
+{
+  "name": "silex-gae",
+  "version": "1.0.0",
+  "description": "Create project with Silex for deploy to GAE",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prawee/silex-gae.git"
+  },
+  "keywords": [
+    "GAE",
+    "Silex",
+    "RESTFul",
+    "API"
+  ],
+  "author": "Prawee Wongsa <prawee@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prawee/silex-gae/issues"
+  },
+  "homepage": "https://github.com/prawee/silex-gae#readme"
+}
